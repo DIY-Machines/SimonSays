@@ -10,18 +10,32 @@ With an Arduino Nano at its core this project also incorporates an OLED screen, 
 List of items used in this project and where to find them (the links are Amazon affiliate links and help to support this channel at no cost to you):
 
 ■ Arduino Nano (x1): https://geni.us/ArduinoNanoV3
+
 ■ OLED Screen (1): https://geni.us/OLEDscreen
+
 ■ Battery Holders (x2): https://geni.us/2aaBatteryHolder
+
 ■ Resistors (220 Ohms) (x4) : https://geni.us/Ufa2s
+
 ■ Wire: https://geni.us/22AWGWire
+
 ■ AA Batteries (x4): https://geni.us/AABatteries
+
 ■ Illuminated Momentary Buttons (x4): https://geni.us/IllumMomentButtons
+
 ■ Nuts and Bolts - M3 x 10 (x4): http://geni.us/NutsAndBolts
+
 ■ 5v buzzer (x1) : https://geni.us/5vBuzzer
+
 ■ PLA Filament: https://geni.us/PLAFilament
+
 ■ Illuminated Power Switch (x1): https://geni.us/IllumPowerSwitch
+
 ■ Battery powered glue gun: http://geni.us/BoschBatteryGlueGun
+
 ■ Battery powered soldering iron:  http://bit.ly/SealeySDL6 
+
+
 
 ==========
 
