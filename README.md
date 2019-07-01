@@ -41,7 +41,7 @@ List of items used in this project and where to find them (the links are Amazon 
 
 The code and wiring diagram can be downloaded from here: http://www.diymachines.co.uk/diy-arduino-simon-says-game
 
-3D printed parts can be downloaded from here: https://www.thingiverse.com/t########
+3D printed parts can be downloaded from here: https://www.thingiverse.com/thing:3723181
 
 ==========
 
