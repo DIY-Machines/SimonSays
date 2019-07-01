@@ -1,5 +1,5 @@
 # SimonSays
-a 3d printable game of Simon Says
+A 3d printable game of Simon Says
 
 Print, assemble and program your own Simon Says game. How much of the randomly generated colour pattern can you memorise and repeat back? Not sure, then why not make one and find out. (My current best is level 14).   👇 More info below 👇
 
