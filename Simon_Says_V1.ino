@@ -98,7 +98,7 @@ void setup() {
   randomSeed(analogRead(0));  // Make our random numbers more random
 
   // populate the array with random 'colours'
-  for (int i = 0; i <= levelsInGame; i++) {
+  for (int i = 0; i < levelsInGame; i++) {
     simonSaid[i] = random(5, 9);
   }
   for(int j = 0; j < levelsInGame; j++)     //Print this array to serial monitor
